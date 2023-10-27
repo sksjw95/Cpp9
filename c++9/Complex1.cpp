@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 #include "Complex1.h"
 using namespace std;
 
@@ -23,4 +23,4 @@ void Complex1::display() const {
 		cout << "-j" << -iPart;
 	}
 	cout << ")";
-}*/
+}
