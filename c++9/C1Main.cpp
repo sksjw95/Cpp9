@@ -9,7 +9,7 @@ int main() {
 	c1.display();
 	cout << "+ ";
 	c2.display();
-	cout << " = ";
+	cout << " =1 ";
 	c3.display();
 	cout << endl;
 
